@@ -1,0 +1,18 @@
+.talker{
+    display: inline-block;
+    vertical-align: top;
+    width:100%;
+}
+.nickName{
+    font-size:20px;
+}
+
+.leftContent{
+    font-size:12px;
+    padding-left:30px;
+}
+
+.rightContent{
+    font-size:12px;
+    padding-right:30px;
+}
